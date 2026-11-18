@@ -1,0 +1,31 @@
+# Environments and secrets
+venv/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Runtime caches and generated media
+.cache/
+outputs/
+
+# Personal assets (bring your own voice sample, portrait, and voice id)
+voice_id.txt
+voice/my_voice_sample.wav
+avatar/my_photo.jpg
+
+# Raw recordings and course materials (curated copies live in docs/media/)
+assets/
+*.mov
+project05.pdf
+
+# Models and misc
+node_modules/
+*.bin
+*.pt
+*.ckpt
+.DS_Store
+.Rhistory
