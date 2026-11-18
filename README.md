@@ -185,7 +185,7 @@ sequenceDiagram
 ### 1. Install
 
 ```bash
-git clone https://github.com/<your-username>/almaty-table-ai-avatar.git
+git clone https://github.com/danazzie/almaty-table-ai-avatar.git
 cd almaty-table-ai-avatar
 
 python3 -m venv venv
